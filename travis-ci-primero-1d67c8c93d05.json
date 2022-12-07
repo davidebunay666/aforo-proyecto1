@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travis-ci-primero",
+  "private_key_id": "1d67c8c93d05215969aff9539c8a4515e7dd872c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCywrh+1qzbHnnC\nOzoT3xrzaZlT5yiYn86sVrZ8u/Ne2+0MPwdD5fVA05Vcrq4G3jU782MZLFnkok3a\nSeUcfNjzTRyE5BQIIhyycnoL/AvEXcbIqwvEU+A8U/d/Bd95LpRGKrMDBkHLT/gp\nkeTTitqIhyzChONbiU/hqV1WzjJEAJnAhAPtxJvGGSIXlVBDPYFxkpdxKNQz56GY\nTxXtRcWXH/ivACka3QMVGXHPKvnV2sVzOy2GgjSKQoMhUH13BxircFgYs2CxWnAW\nOcQvXVXpIVTPM6xzj9O/P2LXlQx8ipLPECR5KTwAQ5g0XuHk2mbNUtpdm1VvIsyn\nmGNKykUpAgMBAAECggEAF0yl+3JDqXO5bwWFNl3YB232HCd+9RWvPGs48d0VhYGo\nzfXRHpp0cvSg/SmPaTnBOoUon3lWZiR5fUAwapwjMuMUGoYXzk+T6fZdzf4WEowe\ngr04lWhRS8ut8JJ1ZDgb/2FFX9mK7dMIh3KKnr/0Z+MmhFwJvj6ReNo4Xj4V8yLg\ni1W73TjYVVgMuh4V74VvEoM5JB0onbFKH6bQFGtsNa+7jkP10bf9JrR1GOZvCDaW\nfy+xX6N6ZIBhbQ0NaW1o6QbzytekIVBmZ+E6UZQYeu08qXkj1yWfO4AbNGenYbAF\nrxOEVy1plwZ3ZCGewM4+NPbzcB5DDwC8AvWdOC1rYQKBgQD3gs0BFfBkIv+aDtI8\nT//ZIppSHF9lf81pi32gpqRV3Tv7Pz8lhtpsDZJXA53hZFqrFCIYjeOCexFU4BoX\nmT+PFb7vn0JJVbGMeMs0BW7ONayyFu8Hc+zJprw4FUq14UXvs28Pg92ibX3hfI8u\nhhQGH2OyWrfeLtT/A73tas3V9QKBgQC45EcCRmU5MJrCDN+be/sbdADaPWbPiiXa\nRu5bWGMzZOYM9fjf7IvDuSOclSP226n6q6JyE6B+JxWruW+gO48+lnnwmi99GyY6\n8BlS4cCsxc4ybrqQuwXOyEYRY65DYsNtXprs9T4miXrlsT9mk0/JqBXdajuKg4B7\nO6FknmS95QKBgH40YuXf0vCsa9qZHhgEzrdgDoI512bA0PO1Xbxx3C+wHCqTaFZx\nOaSJEwptXK6V5il/nZcZml1o9UBq+ML5sE/8TZyPf1Q3bs3qtepzrrlU4xb33K/X\nK3DzJNwP90VgdbGws7uciIGPBPXZ9oRJd6JblRFXcpPHG3Jg7RJHOGeVAoGAeNkc\nYKxKdTsDrFplvWcoFiWYeQ0xKe4OF8HNAf+ft3P3ufj8FsCyCdf1It+Ihk3FqIaO\nwyl4+XvqejfWclD7q9kHEvB0ob0hG9zbcIUGPud7gxNE9lyHy0S0J6GTwY/IVLBF\nayRQ3zd1ELTtz8nxmMk4oWRSTpLtY57yOqYdCtECgYEAwI57ThN6MZxoAuGQTTRN\nTATuZfvEhMkz/7VQRLyYIQ1USLDEFpnBjqX9ShcZ+dUqio9pT2ycft2mMnt4QzPU\nmSsyyQNjRSF+Ygy7VwockIMDaelWLy1t7tObrgDwOS+sCB0ZJCjs7Ry3AwLz3W7A\nUkHzB7bS41IOLj5Pzkaj2HM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-ci-aforo255@travis-ci-primero.iam.gserviceaccount.com",
+  "client_id": "113357565988313753665",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-ci-aforo255%40travis-ci-primero.iam.gserviceaccount.com"
+}
