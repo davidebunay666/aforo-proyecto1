@@ -13,3 +13,5 @@ ENV ASPNETCORE_URLS http://*:80
 ENV DOTNET_RUNNING_IN_CONTAINER true
 EXPOSE 80
 ENTRYPOINT ["dotnet", "ProjectTest.API.dll"]
+
+#add change kuberetes
